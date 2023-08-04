@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **theaditya1985@gmail.com**
 
-<img align=“right” alt="coding" width=“400” src=“https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif” >
+<img align=“right” alt="coding" width=“400” src=“https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif” />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityathejaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityathejaat" height="30" width="40" /></a>
