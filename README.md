@@ -16,9 +16,6 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **theaditya1985@gmail.com**
-
-<img width="400" src="https://dribbble.com/shots/19117342-Codebase?utm_source=Clipboard_Shot&utm_campaign=kabojanowska&utm_content=Codebase&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=kabojanowska&utm_content=Codebase&utm_medium=Social_Share" > 
-
 <p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
