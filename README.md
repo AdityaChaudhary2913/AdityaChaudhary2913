@@ -1,4 +1,4 @@
-![Header](/adityachaudhary@AdityaMacBookAirM2/Desktop/header.png)
+![Header](https://github.com/AdityaTheJaat/AdityaTheJaat/blob/main/header.png)
 <h1 align="center">Hi 👋, I'm Aditya Chaudhary</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from India</h3>
 
