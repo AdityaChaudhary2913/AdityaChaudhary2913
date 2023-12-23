@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityathejaat&label=Profile%20views&color=0e75b6&style=flat" alt="adityathejaat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adityathejaat" target="blank"><img src="https://img.shields.io/twitter/follow/adityathejaat?logo=twitter&style=for-the-badge" alt="adityathejaat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/13Aditya06" target="blank"><img src="https://img.shields.io/twitter/follow/adityathejaat?logo=twitter&style=for-the-badge" alt="adityathejaat" /></a> </p>
 
 - 🔭 I’m currently working on [StudyNotion](https://studynotion-edtech-project.vercel.app/)
 
