@@ -19,10 +19,10 @@
 <p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityathejaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityathejaat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya chaudhary" height="30" width="40" /></a>
-<a href="https://instagram.com/adityathejaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityathejaat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/adityathejaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityathejaat" height="30" width="40" /></a>
+<a href="https://twitter.com/13Aditya06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityathejaat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adityachaudhary1306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya chaudhary" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_adityathejaat_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityathejaat" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/AdityaTheJaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityathejaat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
