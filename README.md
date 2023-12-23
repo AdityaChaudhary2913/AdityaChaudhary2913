@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [StudyNotion](https://studynotion-edtech-project.vercel.app/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently exploring **Data Science**
 
-- 🤝 I’m looking for help with [Spotify Clone](https://spotify-clone-frontend-puce.vercel.app/)
+- 🤝 I’m looking for help with [StudyNotion](https://studynotion-edtech-project.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
