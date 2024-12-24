@@ -1,15 +1,14 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center; margin-top: 50px;">
-    <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b76113isniozykgalztxq0jbh0k2e9p6xarol7f6lpfsc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Generative AI" style="max-width: 100%; height: auto; border-radius: 8px;">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
+
+<div align="center">
     <h1 style="color: #333;">💫 About Me:</h1>
     <p style="margin: 20px 0;">🔭 I’m currently working on Upscaling my skills in GenerativeAI<br>
     👯 I’m looking to collaborate on any GenAI Project<br>
     🤝 I’m looking for help with Blood Group Detection Using Fingerprint<br>
     🌱 I’m currently learning VLMs and Prompt Learning</p>
-    <div style="margin-top: 20px;">
-        <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=AdityaChaudhary2913&icon=9&color=1" alt="Profile visits" style="border: none;">
-        </a>
-    </div>
+    [![](https://visitcount.itsvg.in/api?id=AdityaChaudhary2913&icon=9&color=1)](https://visitcount.itsvg.in)
 </div>
 
 ## 🌐 Socials:
