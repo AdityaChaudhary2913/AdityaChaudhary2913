@@ -18,20 +18,6 @@
 </div>
 
 <div align="center">
-  <h2>🗂️ Highlight Projects</h2>
-  <a href="https://github.com/AdityaChaudhary2913/StudyNotion">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChaudhary2913&repo=StudyNotion&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StudyNotion" />
-  </a>
-  <a href="https://github.com/AdityaChaudhary2913/BloodGroup-Detection-Using-Fingerprint">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChaudhary2913&repo=BloodGroup-Detection-Using-Fingerprint&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Project" />
-  </a>
-  
-  <a href="https://github.com/AdityaChaudhary2913/StudyNotion">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChaudhary2913&repo=StudyNotion&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StudyNotion" />
-  </a>
-</div>
-
-<div align="center">
   <h2>💻 Tech Stack:</h2>
   <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
