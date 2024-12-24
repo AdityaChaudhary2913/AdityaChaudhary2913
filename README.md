@@ -24,7 +24,7 @@
 ```bash
 npx aditya13
 ```
-##👆 This command line tool can be found at [npx aditya13](https://github.com/AdityaChaudhary2913/npx_card)**
+## 👆 This command line tool can be found at [npx aditya13](https://github.com/AdityaChaudhary2913/npx_card)**
 
 <div align="center">
   <h2>💻 Tech Stack:</h2>
