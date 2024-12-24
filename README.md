@@ -16,7 +16,7 @@
   <a href="https://medium.com/@@adityachaudhary1306"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://x.com/13Aditya06"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
 </div>
-<br />
+
 👇 Hit in your console or terminal to connect with me.
 ```bash
 npx aditya13
