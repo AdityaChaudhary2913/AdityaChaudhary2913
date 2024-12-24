@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on Upscaling my skills in GenerativeAI<br>👯 I’m looking to collaborate on any GenAI Project<br>🤝 I’m looking for help with Blood Group Detection Using Fingerprint<br>🌱 I’m currently learning VLMs and Prompt Learning
 
