@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+  <img src="https://media.giphy.com/media/Y2siFL8PCUm5ucFBuS/giphy.gif?cid=790b76113isniozykgalztxq0jbh0k2e9p6xarol7f6lpfsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 # 💫 About Me:
