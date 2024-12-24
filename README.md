@@ -28,4 +28,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditychaudhary1306&show_icons=true&locale=en" alt="aditychaudhary1306" /></p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityachaudhary1306&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SiddharthJiyani&locale=en&mode=daily&theme=darcula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityachaudhary1306&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditychaudhary1306&" alt="aditychaudhary1306" /></p>
