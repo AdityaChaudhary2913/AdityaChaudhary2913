@@ -1,17 +1,13 @@
-![Header](https://github.com/AdityaTheJaat/AdityaTheJaat/blob/main/header.png)
+![Header](https://github.com/aditychaudhary1306/aditychaudhary1306/blob/main/header.png)
 <h1 align="center">Hi 👋, I'm Aditya Chaudhary</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityathejaat&label=Profile%20views&color=0e75b6&style=flat" alt="adityathejaat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditychaudhary1306&label=Profile%20views&color=0e75b6&style=flat" alt="aditychaudhary1306" /> </p>
 
-<p align="left"> <a href="https://twitter.com/13Aditya06" target="blank"><img src="https://img.shields.io/twitter/follow/adityathejaat?logo=twitter&style=for-the-badge" alt="adityathejaat" /></a> </p>
-
-- 🔭 I’m currently working on [StudyNotion](https://studynotion-edtech-project.vercel.app/)
+<p align="left"> <a href="https://twitter.com/13Aditya06" target="blank"><img src="https://img.shields.io/twitter/follow/adityathejaat?logo=twitter&style=for-the-badge" alt="aditychaudhary1306" /></a> </p>
 
 - 🌱 I’m currently exploring **Data Science**
-
-- 🤝 I’m looking for help with [StudyNotion](https://studynotion-edtech-project.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
