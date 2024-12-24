@@ -68,8 +68,8 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaChaudhary2913&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaChaudhary2913&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaChaudhary2913&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaChaudhary2913&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" /><br/>
 </div>
 
