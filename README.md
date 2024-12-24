@@ -17,6 +17,11 @@
   <a href="https://x.com/13Aditya06"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
 </div>
 
+```bash
+npx aditya13
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/AdityaChaudhary2913/npx_card)**
+
 <div align="center">
   <h2>💻 Tech Stack:</h2>
   <div align="center">
