@@ -17,7 +17,10 @@
   <a href="https://x.com/13Aditya06"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
 </div>
 
-👇 Hit in your console or terminal to connect with me.
+<div align="center">
+  <h2>👇 Hit in your console or terminal to connect with me.</h2>
+</div>
+
 ```bash
 npx aditya13
 ```
