@@ -2,10 +2,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Header GIF" />
   
   <h1>💫 About Me:</h1>
-  <p>🔭 I’m currently working on Upscaling my skills in GenerativeAI<br>
+  <h3>🔭 I’m currently working on Upscaling my skills in GenerativeAI<br>
      👯 I’m looking to collaborate on any GenAI Project<br>
      🤝 I’m looking for help with Blood Group Detection Using Fingerprint<br>
-     🌱 I’m currently learning VLMs and Prompt Learning</p>
+     🌱 I’m currently learning VLMs and Prompt Learning</h3>
   <img src="https://visitcount.itsvg.in/api?id=AdityaChaudhary2913&icon=9&color=1" alt="Profile Views">
 </div>
 
