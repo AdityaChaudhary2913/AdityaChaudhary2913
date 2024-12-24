@@ -8,7 +8,7 @@
     👯 I’m looking to collaborate on any GenAI Project<br>
     🤝 I’m looking for help with Blood Group Detection Using Fingerprint<br>
     🌱 I’m currently learning VLMs and Prompt Learning</p>
-    [![](https://visitcount.itsvg.in/api?id=AdityaChaudhary2913&icon=9&color=1)](https://visitcount.itsvg.in)
+    <img src="https://visitcount.itsvg.in/api?id=AdityaChaudhary2913&icon=9&color=1" alt="Profile Views">
 </div>
 
 ## 🌐 Socials:
