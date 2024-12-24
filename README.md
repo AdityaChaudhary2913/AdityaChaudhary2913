@@ -8,8 +8,9 @@
     👯 I’m looking to collaborate on any GenAI Project<br>
     🤝 I’m looking for help with Blood Group Detection Using Fingerprint<br>
     🌱 I’m currently learning VLMs and Prompt Learning</p>
-    <img src="https://visitcount.itsvg.in/api?id=AdityaChaudhary2913&icon=9&color=1" alt="Profile Views">
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=AdityaChaudhary2913&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_adityathejaat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachaudhary1306) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@adityachaudhary1306) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/13Aditya06) 
