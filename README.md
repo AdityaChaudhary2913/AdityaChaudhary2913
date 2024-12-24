@@ -71,8 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaChaudhary2913&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaChaudhary2913&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaChaudhary2913&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aditya2913" alt="GitHub Streak Stats" /><br/>
-<!--   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aditya2913)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
 <div align="center">
